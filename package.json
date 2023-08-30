@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Battle-Frogs/",
+    "build": "vite build --base=/94_html-css_Battle-Frogs/",
     "preview": "vite preview"
   },
   "devDependencies": {
